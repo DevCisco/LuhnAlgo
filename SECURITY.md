@@ -2,7 +2,7 @@
 
 ## ⚠️ Regole Fondamentali
 
-### 1. NUNCA Usare Dati Reali in Test
+### 1. NON Usare Dati Reali in Test
 
 ```python
 # ❌ NO - Questa è una violazione di privacy!
@@ -195,3 +195,4 @@ if not authorized(user, 'payment'):
 
 **Ultima revisione:** Febbraio 2026
 **Status:** Compliant GDPR v1.3 • PCI DSS 3.2.1
+
